@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">IntentsExplicitos7</string>
+    <string name="text">Aqui saldra tu eleccion</string>
+    <string name="selec">Selecciona tu provincia</string>
+    <string name="r1">Bizkaia</string>
+    <string name="r2">Guipuzkoa</string>
+    <string name="r3">Araba</string>
+    <string name="r4">Nafarroa</string>
+    <string name="r5">Lapurdi</string>
+    <string name="r6">Zuberoa</string>
+    <string name="r7">Portugalete</string>
+    <string name="fin">Se ha seleccionado</string>
+</resources>

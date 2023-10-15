@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">IntentsExplicitos9</string>
+    <string name="web">IR A WEB</string>
+    <string name="url">URL:</string>
+    <string name="mapa">IR AL MAPA</string>
+    <string name="latitud">latitud:</string>
+    <string name="longitud">longitud:</string>
+    <string name="mail">ENVIAR MAIL</string>
+    <string name="email">email</string>
+</resources>
